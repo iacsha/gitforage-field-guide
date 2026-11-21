@@ -98,6 +98,11 @@ revival:
   dormancy_months: 12
   max_candidates: 10
 
+# Early finds: the live record behind the Found early page. The daily
+# early-finds workflow keeps state/early-finds.json.
+early_finds:
+  enabled: true
+
 site:
   repo: iacsha/gitforage-field-guide
   title: gitforage

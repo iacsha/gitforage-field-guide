@@ -21,7 +21,7 @@ env:
   # The gitforage commit this portal runs. Pinned by full SHA so a run is reproducible
   # and nothing changes under you; update it on purpose to upgrade.
   GITFORAGE_REPO: iacsha/gitforage
-  GITFORAGE_SHA: "ee6b0f8054f6b527c508ddc62edb051a3631bfce"
+  GITFORAGE_SHA: "486f6a84b4b2ba56a94b61648b52ed2eed03070a"
 
 jobs:
   forage:
@@ -66,6 +66,9 @@ jobs:
         env:
           # Read-only use: public search and repo data. Sent only to api.github.com.
           GITHUB_TOKEN: ${{ github.token }}
+          # Optional AI re-rank (llm in interests.yml). Unset secrets are empty: rules only.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           bun .gitforage-src/packages/cli/src/cli.ts run --config interests.yml --mode discover --out "$RUNNER_TEMP/discover.md"
           bun .gitforage-src/packages/cli/src/cli.ts run --config interests.yml --mode contribute --out "$RUNNER_TEMP/contribute.md"
@@ -91,6 +94,19 @@ jobs:
             git -c "http.https://github.com/.extraheader=$auth" pull --rebase origin "$GITHUB_REF_NAME"
           done
           exit 1
+
+      # Optional: pings the channels listed under notify: in interests.yml. With none
+      # listed it does nothing; a channel whose secret is not set is skipped. Secrets reach
+      # this step only, through env:. A failed ping never blocks the deploy.
+      - name: Notify
+        continue-on-error: true
+        env:
+          GITFORAGE_NTFY_TOPIC: ${{ secrets.GITFORAGE_NTFY_TOPIC }}
+          GITFORAGE_NTFY_TOKEN: ${{ secrets.GITFORAGE_NTFY_TOKEN }}
+          GITFORAGE_TELEGRAM_BOT_TOKEN: ${{ secrets.GITFORAGE_TELEGRAM_BOT_TOKEN }}
+          GITFORAGE_TELEGRAM_CHAT_ID: ${{ secrets.GITFORAGE_TELEGRAM_CHAT_ID }}
+          GITFORAGE_WEBHOOK_URL: ${{ secrets.GITFORAGE_WEBHOOK_URL }}
+        run: bun .gitforage-src/packages/cli/src/cli.ts notify --config interests.yml --repo "$GITHUB_REPOSITORY"
 
       - name: Upload the portal
         uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
