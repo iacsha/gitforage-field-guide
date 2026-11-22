@@ -1,0 +1,1884 @@
+{
+  "version": 1,
+  "date": "2026-11-22",
+  "mode": "discover",
+  "generated_at": "2026-11-22T14:47:44.360Z",
+  "items": [
+    {
+      "full_name": "rorkai/App-Store-Connect-CLI",
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
+      "score": 21.9,
+      "stars": 8451,
+      "language": "Go",
+      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (cli, golang)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 5.9,
+          "text": "~829 stars a month (new, 10 months ago, top 21% in golang)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.5,
+          "text": "like your stars: go, cli"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released 7.1.0 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "app-store-connect",
+        "apple",
+        "automation",
+        "cicd",
+        "cli",
+        "command-line-tool",
+        "developer-tools",
+        "devops",
+        "go",
+        "golang",
+        "ios",
+        "macos",
+        "swift",
+        "testflight",
+        "xcode"
+      ],
+      "via_topics": [
+        "golang"
+      ],
+      "created_at": "2026-01-20T11:17:23Z",
+      "pushed_at": "2026-11-22T14:37:15Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "torrentplayer/torrentplayer",
+      "url": "https://github.com/torrentplayer/torrentplayer",
+      "score": 21.6,
+      "stars": 979,
+      "language": "Rust",
+      "description": "Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 6.1,
+          "text": "~918 stars a month (new, 32d ago, top 19% in svelte)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (rust, svelte)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 4d ago"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v0.3.3 24d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "audio-player",
+        "bittorrent",
+        "cross-platform",
+        "desktop-app",
+        "media-player",
+        "p2p",
+        "rust",
+        "streaming",
+        "svelte",
+        "tauri",
+        "torrent",
+        "video-player"
+      ],
+      "via_topics": [
+        "svelte"
+      ],
+      "created_at": "2026-10-20T19:44:10Z",
+      "pushed_at": "2026-11-17T14:52:07Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "omlahore/RemoveMacAI",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "score": 21.1,
+      "stars": 6258,
+      "language": "Swift",
+      "description": "Turn off Apple Intelligence and delete its models on your Mac. Optional tweaks for analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 6.6,
+          "text": "~3477 stars a month (new, 54d ago, top 13% in privacy)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (cli, privacy)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v1.2.2 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 1,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai-blocker",
+        "anti-ai",
+        "apple-intelligence",
+        "cli",
+        "debloat",
+        "hacktoberfest",
+        "macos",
+        "macos-27",
+        "privacy",
+        "siri",
+        "swift"
+      ],
+      "via_topics": [
+        "privacy"
+      ],
+      "created_at": "2026-09-29T11:02:39Z",
+      "pushed_at": "2026-11-22T03:05:57Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "SimoHypers/limusic",
+      "url": "https://github.com/SimoHypers/limusic",
+      "score": 21.1,
+      "stars": 2182,
+      "language": "Rust",
+      "description": "Feature rich, native desktop, YouTube Music client.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (rust, svelte)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 5.6,
+          "text": "~464 stars a month (new, 5 months ago, top 25% in svelte)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v1.5.0-rc.1 1d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "desktop-app",
+        "discord-rich-presence",
+        "lastfm",
+        "music",
+        "music-application",
+        "music-player",
+        "rust",
+        "scrobbler",
+        "svelte",
+        "tauri",
+        "youtube-music"
+      ],
+      "via_topics": [
+        "svelte"
+      ],
+      "created_at": "2026-07-03T14:57:30Z",
+      "pushed_at": "2026-11-21T23:40:00Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "orf/gping",
+      "url": "https://github.com/orf/gping",
+      "score": 21,
+      "stars": 12754,
+      "language": "Rust",
+      "description": "Ping, but with a graph",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (cli, rust)"
+        },
+        {
+          "rule": "stars",
+          "points": 5.3,
+          "text": "12754 stars, top 12% in cli"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.7,
+          "text": "like your stars: command-line, cli"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released gping-v1.21.0 3 months ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "cli",
+        "command-line",
+        "graph",
+        "linux",
+        "network-monitoring",
+        "ping",
+        "rust",
+        "shell"
+      ],
+      "via_topics": [],
+      "created_at": "2015-10-17T14:34:25Z",
+      "pushed_at": "2026-11-20T10:32:49Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "glincker/thesvg",
+      "url": "https://github.com/glincker/thesvg",
+      "score": 20.9,
+      "stars": 3031,
+      "language": "TypeScript",
+      "description": "The open SVG brand library: 7,600+ brand logos and cloud icons (AWS, Azure, GCP) as official SVG. Search, copy, ship via npm, CDN, CLI, React, Vue, Svelte, Figma, VS Code, Raycast and MCP. Free, MIT, no gatekeeping.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (react, svelte)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 5.4,
+          "text": "~351 stars a month (new, 9 months ago, top 29% in svelte)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released thesvg@4.0.14 1d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "aws",
+        "brand-assets",
+        "brand-logos",
+        "cdn",
+        "cloud-icons",
+        "icon-library",
+        "icon-pack",
+        "icons",
+        "logos",
+        "mcp-server",
+        "nextjs",
+        "npm-package",
+        "open-source",
+        "react",
+        "svelte",
+        "svg",
+        "svg-icons",
+        "svg-logos",
+        "typescript",
+        "vue"
+      ],
+      "via_topics": [
+        "svelte"
+      ],
+      "created_at": "2026-03-07T18:34:08Z",
+      "pushed_at": "2026-11-21T02:24:56Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "tangency-labs/solidcraft",
+      "url": "https://github.com/tangency-labs/solidcraft",
+      "score": 20.8,
+      "stars": 17706,
+      "language": "Rust",
+      "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.3,
+          "text": "~11804 stars a month (new, 45d ago, top 3% in mcp)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (mcp, rust)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v0.46.2 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "3d-modeling",
+        "brep",
+        "cad",
+        "egui",
+        "mcp",
+        "parametric-cad",
+        "rust",
+        "step",
+        "wasm"
+      ],
+      "via_topics": [
+        "rust"
+      ],
+      "created_at": "2026-10-07T18:57:48Z",
+      "pushed_at": "2026-11-22T14:26:50Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "horizon-rust/horizon",
+      "url": "https://github.com/horizon-rust/horizon",
+      "score": 20.7,
+      "stars": 11725,
+      "language": "Rust",
+      "description": "Minecraft 26.3 rewritten in Rust.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.2,
+          "text": "~7179 stars a month (new, 49d ago, top 5% in gamedev)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (gamedev, rust)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released launcher@0.2.104 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "LGPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "game-engine",
+        "gamedev",
+        "linux",
+        "minecraft",
+        "minecraft-java",
+        "reimplementation",
+        "rust",
+        "voxel",
+        "vulkan",
+        "wgpu"
+      ],
+      "via_topics": [
+        "rust",
+        "gamedev"
+      ],
+      "created_at": "2026-10-03T17:08:48Z",
+      "pushed_at": "2026-11-22T14:37:47Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 20.7,
+      "stars": 9578,
+      "language": "Kotlin",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.2,
+          "text": "~11973 stars a month (new, 24d ago, top 4% in android)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (android, llm)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v0.1.50 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "mobile-agent"
+      ],
+      "via_topics": [
+        "android"
+      ],
+      "created_at": "2026-10-29T14:34:07Z",
+      "pushed_at": "2026-11-22T13:16:23Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 20.7,
+      "stars": 2925,
+      "language": "TypeScript",
+      "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.2,
+          "text": "~7977 stars a month (new, 11d ago, top 5% in privacy)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (mcp, privacy)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v0.3.64 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "ai-meeting-assistant",
+        "ai-notetaker",
+        "electron",
+        "granola-alternative",
+        "linux",
+        "llama-cpp",
+        "local-ai",
+        "local-first",
+        "macos",
+        "mcp",
+        "meeting-minutes",
+        "meeting-notes",
+        "offline-first",
+        "open-source",
+        "privacy",
+        "speech-to-text",
+        "transcription",
+        "whisper",
+        "whisper-cpp",
+        "windows"
+      ],
+      "via_topics": [
+        "privacy"
+      ],
+      "created_at": "2026-11-10T20:01:01Z",
+      "pushed_at": "2026-11-22T14:32:25Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "o2sh/onefetch",
+      "url": "https://github.com/o2sh/onefetch",
+      "score": 20.6,
+      "stars": 12085,
+      "language": "Rust",
+      "description": "Command-line Git information tool",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (cli, rust)"
+        },
+        {
+          "rule": "stars",
+          "points": 4.4,
+          "text": "12085 stars, top 27% in cli"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.7,
+          "text": "like your stars: command-line, cli"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released 3.3.0 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "cli",
+        "command-line",
+        "command-line-interface",
+        "git",
+        "rust",
+        "tool"
+      ],
+      "via_topics": [],
+      "created_at": "2018-09-14T18:51:00Z",
+      "pushed_at": "2026-11-21T20:03:27Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "zephium-browser/Zephium",
+      "url": "https://github.com/zephium-browser/Zephium",
+      "score": 20.6,
+      "stars": 1230,
+      "language": "Rust",
+      "description": "A fast, fully-featured browser and work environment reimagined for you and your agents",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (rust, svelte)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 5.1,
+          "text": "~232 stars a month (new, 5 months ago, top 32% in svelte)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v1.0.5 11d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MPL-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "adblock",
+        "agents",
+        "ai",
+        "browser",
+        "canvas",
+        "rust",
+        "svelte",
+        "tauri",
+        "web",
+        "webkit",
+        "webview2",
+        "wkwebview",
+        "work",
+        "wry"
+      ],
+      "via_topics": [
+        "svelte"
+      ],
+      "created_at": "2026-06-15T19:55:15Z",
+      "pushed_at": "2026-11-22T14:01:46Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "score": 20.5,
+      "stars": 12559,
+      "language": "C",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7,
+          "text": "~3334 stars a month (new, 4 months ago, top 7% in machine-learning)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (llm, machine-learning)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 6d ago"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v2.0.0 6d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "avx2",
+        "c99",
+        "cpu-inference",
+        "deep-learning",
+        "from-scratch",
+        "inference-engine",
+        "kimi-k3",
+        "linear-attention",
+        "llm",
+        "llm-inference",
+        "machine-learning",
+        "memory-efficient",
+        "mixture-of-experts",
+        "moe",
+        "mxfp4",
+        "quantization",
+        "simd",
+        "systems-programming",
+        "transformer",
+        "zero-dependencies"
+      ],
+      "via_topics": [
+        "machine-learning"
+      ],
+      "created_at": "2026-08-01T09:29:38Z",
+      "pushed_at": "2026-11-16T10:23:21Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "TheR1D/shell_gpt",
+      "url": "https://github.com/TheR1D/shell_gpt",
+      "score": 19.7,
+      "stars": 12316,
+      "language": "Python",
+      "description": "A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (cli, llm, terminal)"
+        },
+        {
+          "rule": "stars",
+          "points": 5,
+          "text": "12316 stars, top 17% in llm"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.7,
+          "text": "like your stars: command-line, cli"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released 1.5.1 7 months ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "chatgpt",
+        "cheat-sheet",
+        "cli",
+        "commands",
+        "gpt-3",
+        "gpt-4",
+        "gpt-5",
+        "linux",
+        "llama",
+        "llm",
+        "ollama",
+        "openai",
+        "productivity",
+        "python",
+        "shell",
+        "terminal"
+      ],
+      "via_topics": [],
+      "created_at": "2023-01-18T19:40:11Z",
+      "pushed_at": "2026-07-02T06:03:01Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "HelixDB/helix-foundry",
+      "url": "https://github.com/HelixDB/helix-foundry",
+      "score": 18.4,
+      "stars": 2180,
+      "language": "Go",
+      "description": "Connect your company's data, let an agent draft an ontology over it, and load it into HelixDB as one graph you can explore and ask questions of. Hosted at foundry.helix-db.com, or run it on your own machine.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 6.9,
+          "text": "~1422 stars a month (new, 46d ago, top 9% in golang)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, golang)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "data-integration",
+        "golang",
+        "graph-database",
+        "helixdb",
+        "knowledge-graph",
+        "nextjs",
+        "ontology"
+      ],
+      "via_topics": [
+        "golang"
+      ],
+      "created_at": "2026-10-07T05:10:45Z",
+      "pushed_at": "2026-11-21T19:26:46Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "InlitX/streak",
+      "url": "https://github.com/InlitX/streak",
+      "score": 16.9,
+      "stars": 1245,
+      "language": "Dart",
+      "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (android, flutter, privacy)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.9,
+          "text": "~224 stars a month (new, 6 months ago, top 48% in flutter)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "android",
+        "dart",
+        "fdroid",
+        "flutter",
+        "google",
+        "habit",
+        "habit-tracker",
+        "habits",
+        "kotlin",
+        "planner",
+        "privacy",
+        "productivity",
+        "todoapp"
+      ],
+      "via_topics": [
+        "flutter"
+      ],
+      "created_at": "2026-06-08T13:30:49Z",
+      "pushed_at": "2026-11-22T11:51:32Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "hexmora/fluxdown",
+      "url": "https://github.com/hexmora/fluxdown",
+      "score": 16.9,
+      "stars": 497,
+      "language": "TypeScript",
+      "description": "Streaming Markdown renderer for AI apps. React, Vue, Svelte, Angular, React Native, React Lynx, Vue Lynx, SolidJS, Taro, and Uni App Vapor components with a shared reactive core.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (react, svelte)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.9,
+          "text": "~178 stars a month (new, 3 months ago, top 35% in svelte)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 5d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "ai-chat",
+        "angular",
+        "lynx",
+        "markdown",
+        "markdown-renderer",
+        "react",
+        "react-lynx",
+        "react-native",
+        "solidjs",
+        "streaming-markdown",
+        "svelte",
+        "taro",
+        "typescript",
+        "uni-app",
+        "uni-app-x",
+        "vue",
+        "vue-lynx"
+      ],
+      "via_topics": [
+        "svelte"
+      ],
+      "created_at": "2026-08-29T15:17:32Z",
+      "pushed_at": "2026-11-16T19:35:06Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "score": 16.8,
+      "stars": 26019,
+      "language": "Rust",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 6.8,
+          "text": "~4289 stars a month (new, 6 months ago, top 10% in privacy)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (privacy, rust)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "dpi",
+        "gpui",
+        "hid",
+        "hidpp",
+        "local-first",
+        "logitech",
+        "logitech-mouse",
+        "logitech-options",
+        "mouse-remapping",
+        "mx-master",
+        "privacy",
+        "rust",
+        "smartshift"
+      ],
+      "via_topics": [
+        "privacy",
+        "rust"
+      ],
+      "created_at": "2026-05-24T10:10:36Z",
+      "pushed_at": "2026-11-22T03:23:29Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "hatoo/oha",
+      "url": "https://github.com/hatoo/oha",
+      "score": 16.8,
+      "stars": 10717,
+      "language": "Rust",
+      "description": "Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (cli, rust)"
+        },
+        {
+          "rule": "stars",
+          "points": 4.1,
+          "text": "10717 stars, top 31% in cli"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 4d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.7,
+          "text": "like your stars: command-line, cli"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "benchmark",
+        "cli",
+        "command-line",
+        "http",
+        "http2",
+        "load-generator",
+        "load-testing",
+        "rust",
+        "tui"
+      ],
+      "via_topics": [],
+      "created_at": "2020-03-02T13:26:35Z",
+      "pushed_at": "2026-11-18T05:45:15Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "pass-with-high-score/blockads-android",
+      "url": "https://github.com/pass-with-high-score/blockads-android",
+      "score": 16.8,
+      "stars": 2798,
+      "language": "Kotlin",
+      "description": "Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (android, golang, privacy)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.8,
+          "text": "~295 stars a month (new, 10 months ago, top 50% in golang)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "adblocker",
+        "android",
+        "block-ads",
+        "blockads",
+        "dns",
+        "dns-filter",
+        "firewall",
+        "go-mobile",
+        "golang",
+        "https-filtering",
+        "jetpack-compose",
+        "kotlin",
+        "no-root",
+        "privacy",
+        "root",
+        "vpn",
+        "wireguard"
+      ],
+      "via_topics": [
+        "privacy",
+        "golang"
+      ],
+      "created_at": "2026-02-10T04:35:15Z",
+      "pushed_at": "2026-11-22T07:41:32Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "fennaraOfficial/fennara-godot-ai",
+      "url": "https://github.com/fennaraOfficial/fennara-godot-ai",
+      "score": 16.8,
+      "stars": 320,
+      "language": "Rust",
+      "description": "AI chat and agent tooling for Godot, with both MCP support and in-built native chat window.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (gamedev, godot, mcp)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.8,
+          "text": "~55 stars a month (new, 6 months ago, top 50% in godot)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "ai-agent",
+        "ai-coding",
+        "ai-game-development",
+        "claude-code",
+        "codex",
+        "cursor",
+        "gamedev",
+        "gdscript",
+        "godot",
+        "godot-4",
+        "godot-addon",
+        "godot-engine",
+        "godot-plugin",
+        "indiegamedev",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol"
+      ],
+      "via_topics": [
+        "godot"
+      ],
+      "created_at": "2026-06-01T06:16:55Z",
+      "pushed_at": "2026-11-21T14:54:31Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "score": 16.7,
+      "stars": 31061,
+      "language": "TypeScript",
+      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 6.7,
+          "text": "~8103 stars a month (new, 4 months ago, top 11% in llm)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, llm)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        }
+      ],
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agents",
+        "ai-video",
+        "compiler",
+        "dsl",
+        "ffmpeg",
+        "generative-ai",
+        "llm",
+        "markup-language",
+        "monorepo",
+        "plugin-system",
+        "programming-language",
+        "text-to-video",
+        "typescript",
+        "video",
+        "video-automation",
+        "video-clone",
+        "video-editing",
+        "video-generation"
+      ],
+      "via_topics": [
+        "llm"
+      ],
+      "created_at": "2026-07-29T18:49:19Z",
+      "pushed_at": "2026-11-20T10:08:47Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Syngnat/GoNavi",
+      "url": "https://github.com/Syngnat/GoNavi",
+      "score": 16.7,
+      "stars": 2106,
+      "language": "TypeScript",
+      "description": "High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (golang, mcp, postgresql, react)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.7,
+          "text": "~214 stars a month (new, 10 months ago, top 52% in postgresql)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "ai",
+        "cross-platform",
+        "database-client",
+        "database-gui",
+        "desktop-app",
+        "developer-tools",
+        "golang",
+        "kafka",
+        "mcp",
+        "model-context-protocol",
+        "mongodb",
+        "mqtt",
+        "mysql",
+        "oracle-database",
+        "postgresql",
+        "react",
+        "redis",
+        "sql-client",
+        "typescript",
+        "wails"
+      ],
+      "via_topics": [
+        "postgresql",
+        "golang"
+      ],
+      "created_at": "2026-01-31T09:30:47Z",
+      "pushed_at": "2026-11-22T08:34:24Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "lexmount/moli",
+      "url": "https://github.com/lexmount/moli",
+      "score": 16.6,
+      "stars": 24237,
+      "language": "Rust",
+      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 6.6,
+          "text": "~6991 stars a month (new, 3 months ago, top 13% in rust)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, rust)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser",
+        "browser-automation",
+        "cloud-browser",
+        "headless",
+        "headless-browser",
+        "kitesurf",
+        "playwright",
+        "puppeteer",
+        "rust",
+        "servo",
+        "web-crawler",
+        "web-crawling",
+        "web-scraper",
+        "web-scraping"
+      ],
+      "via_topics": [
+        "rust"
+      ],
+      "created_at": "2026-08-10T13:20:30Z",
+      "pushed_at": "2026-11-22T14:18:21Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "claudiodangelis/qrcp",
+      "url": "https://github.com/claudiodangelis/qrcp",
+      "score": 16.6,
+      "stars": 10532,
+      "language": "Go",
+      "description": ":zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (cli, golang)"
+        },
+        {
+          "rule": "stars",
+          "points": 3.9,
+          "text": "10532 stars, top 36% in cli"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.7,
+          "text": "like your stars: command-line, cli"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "cli",
+        "command-line",
+        "golang",
+        "qrcode",
+        "utility"
+      ],
+      "via_topics": [],
+      "created_at": "2018-01-14T22:35:55Z",
+      "pushed_at": "2026-11-22T12:58:16Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "jiwoochris/artex-global",
+      "url": "https://github.com/jiwoochris/artex-global",
+      "score": 16.6,
+      "stars": 4408,
+      "language": "Go",
+      "description": "Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English default, switchable to Korean/Chinese/Spanish/Japanese. For authorized, defensive and detection use only. (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 6.6,
+          "text": "~2699 stars a month (new, 49d ago, top 13% in security)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (llm, security)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "ai-agent",
+        "autonomous-agents",
+        "blue-team",
+        "cybersecurity",
+        "detection-engineering",
+        "i18n",
+        "korean",
+        "llm",
+        "penetration-testing",
+        "security",
+        "security-research",
+        "security-tools",
+        "sigma-rules",
+        "threat-detection"
+      ],
+      "via_topics": [
+        "security"
+      ],
+      "created_at": "2026-10-03T14:49:48Z",
+      "pushed_at": "2026-11-19T15:55:08Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "rzru/nightingale",
+      "url": "https://github.com/rzru/nightingale",
+      "score": 16.6,
+      "stars": 1559,
+      "language": "TypeScript",
+      "description": "Machine learning powered Karaoke app (with scores!)",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (machine-learning, react, rust)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.6,
+          "text": "~186 stars a month (new, 8 months ago, top 53% in machine-learning)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "ai",
+        "demucs",
+        "karaoke",
+        "karaoke-application",
+        "karaoke-game",
+        "machine-learning",
+        "machine-learning-algorithms",
+        "ml",
+        "party",
+        "react",
+        "rust",
+        "shadcn",
+        "tailwind",
+        "tauri",
+        "tauri-app",
+        "whisper",
+        "whisper-ai",
+        "whisperx"
+      ],
+      "via_topics": [
+        "machine-learning"
+      ],
+      "created_at": "2026-03-15T14:48:09Z",
+      "pushed_at": "2026-11-21T13:50:04Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "kividbio/kividb",
+      "url": "https://github.com/kividbio/kividb",
+      "score": 16.6,
+      "stars": 1333,
+      "language": "Rust",
+      "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 6.6,
+          "text": "~1081 stars a month (new, 37d ago, top 13% in database)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (database, rust)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "cache",
+        "database",
+        "dragonfly-alternative",
+        "drop-in-replacement",
+        "full-text-search",
+        "high-performance",
+        "in-memory",
+        "io-uring",
+        "key-value-store",
+        "kividb",
+        "multithreaded",
+        "nosql",
+        "redis",
+        "redis-alternative",
+        "redis-compatible",
+        "resp",
+        "rust",
+        "valkey",
+        "vector-database",
+        "vector-search"
+      ],
+      "via_topics": [
+        "database"
+      ],
+      "created_at": "2026-10-16T01:07:52Z",
+      "pushed_at": "2026-11-22T08:15:17Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "kiruna-labs/petal",
+      "url": "https://github.com/kiruna-labs/petal",
+      "score": 16.6,
+      "stars": 474,
+      "language": "Rust",
+      "description": "Petal: low-latency, multi-window screensharing for macOS and Windows. Every shared window becomes a real native window on every participant's desktop.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (rust, svelte)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.6,
+          "text": "~165 stars a month (new, 3 months ago, top 39% in svelte)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 2,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "livekit",
+        "macos",
+        "remote-control",
+        "rust",
+        "screen-sharing",
+        "screensharing",
+        "svelte",
+        "tauri",
+        "webrtc",
+        "windows"
+      ],
+      "via_topics": [
+        "svelte"
+      ],
+      "created_at": "2026-08-27T18:43:02Z",
+      "pushed_at": "2026-11-22T05:18:12Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Paca-AI/paca",
+      "url": "https://github.com/Paca-AI/paca",
+      "score": 16.5,
+      "stars": 2091,
+      "language": "Go",
+      "description": "Non-profit, community-owned and free forever: an AI-native, open-source alternative to Jira, Trello, ClickUp & Monday, where humans and AI agents work as equals on the same Scrum board. Self-hosted, fully customizable via plugins.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "5 of your topics (ai-agents, golang, llm, mcp)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.5,
+          "text": "~254 stars a month (new, 8 months ago, top 54% in self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "agile",
+        "ai-agent",
+        "ai-agents",
+        "ai-native",
+        "bdd",
+        "clickup-alternative",
+        "golang",
+        "issue-tracker",
+        "jira-alternative",
+        "kanban",
+        "llm",
+        "mcp",
+        "open-source",
+        "project-management",
+        "scrum",
+        "scrumban",
+        "self-hosted",
+        "task-management",
+        "trello-alternative",
+        "wasm-plugins"
+      ],
+      "via_topics": [
+        "golang"
+      ],
+      "created_at": "2026-03-20T03:35:40Z",
+      "pushed_at": "2026-11-22T14:33:22Z",
+      "lang": "en",
+      "health": null
+    }
+  ]
+}

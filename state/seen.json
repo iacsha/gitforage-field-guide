@@ -1,6 +1,10 @@
 {
   "version": 1,
   "seen": {
+    "0xerwin1/dbflux": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.3
+    },
     "0xprobabillity/house-control": {
       "first_seen": "2026-11-20T20:54:28.201Z",
       "score": 18.7
@@ -16,6 +20,10 @@
     "21cncstudio/project_aura": {
       "first_seen": "2026-11-21T02:21:27.609Z",
       "score": 12.1
+    },
+    "291-group/lan-orangutan": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 24.2
     },
     "3dg1luk43/ha_washdata": {
       "first_seen": "2026-11-21T02:22:18.024Z",
@@ -73,6 +81,10 @@
       "first_seen": "2026-11-21T02:32:20.595Z",
       "score": 20.5
     },
+    "altimateai/altimate-code": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.7
+    },
     "ampixa/sanotts": {
       "first_seen": "2026-11-21T02:21:27.609Z",
       "score": 16.1
@@ -85,6 +97,10 @@
       "first_seen": "2026-11-20T13:48:44.477Z",
       "score": 15.8
     },
+    "ancsemi/haven": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 25.1
+    },
     "anthropics/claude-plugins-official": {
       "first_seen": "2026-11-20T20:54:28.201Z",
       "score": 15.1
@@ -92,6 +108,10 @@
     "aoci-spec/aoci-code": {
       "first_seen": "2026-11-21T02:31:38.834Z",
       "score": 23.7
+    },
+    "aprilnea/openlogi": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.8
     },
     "arcboxlabs/arcbox": {
       "first_seen": "2026-11-21T01:53:28.376Z",
@@ -129,6 +149,10 @@
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 25.5
     },
+    "bagidea/bagidea-office": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 25.1
+    },
     "banter240/tado_hijack": {
       "first_seen": "2026-11-21T02:03:52.621Z",
       "score": 16.4
@@ -159,6 +183,10 @@
     },
     "bookorbit/bookorbit": {
       "first_seen": "2026-11-20T15:16:42.294Z",
+      "score": 25.1
+    },
+    "boxlite-ai/boxlite": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
       "score": 25.1
     },
     "brightbeanxyz/brightbean-studio": {
@@ -232,6 +260,10 @@
     "cheaper-inference/omniroute": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 17.6
+    },
+    "claudiodangelis/qrcp": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.6
     },
     "clinia/context-engine-studio": {
       "first_seen": "2026-11-21T01:52:42.278Z",
@@ -341,6 +373,10 @@
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 18.7
     },
+    "dogkeeper886/ollama37": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 20.7
+    },
     "donchitos/claude-code-game-studios": {
       "first_seen": "2026-11-21T02:31:38.834Z",
       "score": 19.4
@@ -389,9 +425,17 @@
       "first_seen": "2026-11-21T02:21:27.609Z",
       "score": 13.9
     },
+    "erickochen/purple": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 24
+    },
     "ersinkoc/phonebox": {
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 20.9
+    },
+    "eugene1g/agent-safehouse": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.5
     },
     "every-app/open-seo": {
       "first_seen": "2026-11-21T02:22:18.024Z",
@@ -401,6 +445,10 @@
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 26.8
     },
+    "fareedkhan-dev/kimi-k3-in-c": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 20.5
+    },
     "faulkj/fhirhydrant": {
       "first_seen": "2026-11-20T13:48:44.477Z",
       "score": 15.8
@@ -408,6 +456,10 @@
     "feigecode/navop": {
       "first_seen": "2026-11-21T02:32:20.595Z",
       "score": 25.3
+    },
+    "fennaraofficial/fennara-godot-ai": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.8
     },
     "fhir-rust/fhir-rust": {
       "first_seen": "2026-11-20T13:47:58.838Z",
@@ -440,6 +492,10 @@
     "frameleaf/frameleaf-app": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 20.4
+    },
+    "frigadehq/yogurt": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 20.7
     },
     "fuxicodex/fuxi": {
       "first_seen": "2026-11-20T15:16:01.255Z",
@@ -497,6 +553,10 @@
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 19.7
     },
+    "glincker/thesvg": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 20.9
+    },
     "google/fhir": {
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 21.5
@@ -533,6 +593,10 @@
       "first_seen": "2026-11-21T02:22:18.024Z",
       "score": 10
     },
+    "guillevc/yubal": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.2
+    },
     "gyorgysh/openradview": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 16.1
@@ -552,6 +616,10 @@
     "hastehealth/hastehealth": {
       "first_seen": "2026-11-21T02:22:18.024Z",
       "score": 17.9
+    },
+    "hatoo/oha": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.8
     },
     "headroomlabs-ai/headroom": {
       "first_seen": "2026-11-20T20:24:07.829Z",
@@ -573,13 +641,25 @@
       "first_seen": "2026-11-21T02:03:52.621Z",
       "score": 13.1
     },
+    "helixdb/helix-foundry": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 18.4
+    },
     "herdrdev/herdr": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 24.6
     },
+    "hexmora/fluxdown": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.9
+    },
     "heygen-com/hyperframes": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 27.3
+    },
+    "hi-godot/godot-ai": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.2
     },
     "higangssh/homebutler": {
       "first_seen": "2026-11-20T13:48:44.477Z",
@@ -609,9 +689,17 @@
       "first_seen": "2026-11-21T02:31:38.834Z",
       "score": 23.9
     },
+    "horizon-rust/horizon": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 20.7
+    },
     "huskerminion/techo5": {
       "first_seen": "2026-11-21T02:03:52.621Z",
       "score": 13.3
+    },
+    "hypit-ai/hypit": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.7
     },
     "ibrahimqureshae/mdflux": {
       "first_seen": "2026-11-21T02:31:38.834Z",
@@ -624,6 +712,10 @@
     "imbad0202/academic-research-skills": {
       "first_seen": "2026-11-21T02:21:27.609Z",
       "score": 12.1
+    },
+    "inlitx/streak": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.9
     },
     "interop-sante/hl7.fhir.fr.core": {
       "first_seen": "2026-11-20T20:24:45.097Z",
@@ -652,6 +744,10 @@
     "jcodesmore/ai-website-cloner-template": {
       "first_seen": "2026-11-21T01:52:42.278Z",
       "score": 17.9
+    },
+    "jiwoochris/artex-global": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.6
     },
     "jo-duchan/tapflow": {
       "first_seen": "2026-11-21T02:32:20.595Z",
@@ -697,6 +793,10 @@
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 20.2
     },
+    "k9i-0/ccpocket": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 23.1
+    },
     "keptinventory/kept": {
       "first_seen": "2026-11-21T02:32:20.595Z",
       "score": 26.7
@@ -705,6 +805,14 @@
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 22.6
     },
+    "kiruna-labs/petal": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.6
+    },
+    "kividbio/kividb": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.6
+    },
     "koala73/worldmonitor": {
       "first_seen": "2026-11-21T02:03:52.621Z",
       "score": 17.2
@@ -712,6 +820,10 @@
     "kobii-git/rackpad": {
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 23.1
+    },
+    "kolapsis/maintenant": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.8
     },
     "komal-skynet/claude-skill-homeassistant": {
       "first_seen": "2026-11-21T01:53:28.376Z",
@@ -749,6 +861,10 @@
       "first_seen": "2026-11-21T02:04:34.922Z",
       "score": 12.8
     },
+    "lexmount/moli": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.6
+    },
     "libracoder/kiri": {
       "first_seen": "2026-11-21T01:52:42.278Z",
       "score": 14.4
@@ -780,6 +896,10 @@
     "malisper/pgrust": {
       "first_seen": "2026-11-21T02:31:38.834Z",
       "score": 23.1
+    },
+    "man15h/tellyscope": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.2
     },
     "manaflow-ai/cmux": {
       "first_seen": "2026-11-20T13:32:28.157Z",
@@ -989,6 +1109,10 @@
       "first_seen": "2026-11-21T02:22:18.024Z",
       "score": 19.3
     },
+    "nudgebee/nudgebee": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 23
+    },
     "nvidia/skillspector": {
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 22.8
@@ -996,6 +1120,10 @@
     "nyxtoolsdev/dicom-hl7-mcp-server": {
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 14.9
+    },
+    "o2sh/onefetch": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 20.6
     },
     "oblien/openship": {
       "first_seen": "2026-11-21T01:52:42.278Z",
@@ -1016,6 +1144,10 @@
     "ohs-foundation/fhir-gateway": {
       "first_seen": "2026-11-21T02:04:34.922Z",
       "score": 14.6
+    },
+    "omlahore/removemacai": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 21.1
     },
     "onecli/onecli": {
       "first_seen": "2026-11-21T02:32:20.595Z",
@@ -1065,6 +1197,10 @@
       "first_seen": "2026-11-21T02:31:38.834Z",
       "score": 18.6
     },
+    "orf/gping": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 21
+    },
     "oscarlosu-lab/usbanywhere": {
       "first_seen": "2026-11-21T02:21:27.609Z",
       "score": 16.4
@@ -1076,6 +1212,14 @@
     "outburn-il/fume-community": {
       "first_seen": "2026-11-21T01:52:42.278Z",
       "score": 18.2
+    },
+    "ozark-connect/networkoptimizer": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.7
+    },
+    "paca-ai/paca": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.5
     },
     "pacharanero/sct": {
       "first_seen": "2026-11-21T02:03:52.621Z",
@@ -1096,6 +1240,10 @@
     "pardesline/pardesline": {
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 21.9
+    },
+    "pass-with-high-score/blockads-android": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.8
     },
     "peach-mitao/peach": {
       "first_seen": "2026-11-20T20:54:28.201Z",
@@ -1128,6 +1276,10 @@
     "pixel-agents-hq/pixel-agents": {
       "first_seen": "2026-11-20T13:48:44.477Z",
       "score": 15.7
+    },
+    "pixxelhoff/imagepier": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 17.3
     },
     "pohcee/dcmnorm": {
       "first_seen": "2026-11-20T20:55:09.685Z",
@@ -1169,6 +1321,10 @@
       "first_seen": "2026-11-21T02:22:18.024Z",
       "score": 13.6
     },
+    "rackulalives/rackula": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.4
+    },
     "rar/ha-aqara-fp400": {
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 13.8
@@ -1209,6 +1365,10 @@
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 17.1
     },
+    "rorkai/app-store-connect-cli": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 21.9
+    },
     "rorygallagher2024/glasshouse": {
       "first_seen": "2026-11-20T20:54:28.201Z",
       "score": 19.1
@@ -1225,6 +1385,10 @@
       "first_seen": "2026-11-21T02:22:18.024Z",
       "score": 12.1
     },
+    "rustrak/rustrak": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 25.4
+    },
     "rusty4444/ha-lightfx": {
       "first_seen": "2026-11-21T02:04:34.922Z",
       "score": 11
@@ -1236,6 +1400,10 @@
     "ryzenixx/proxmoxbar": {
       "first_seen": "2026-11-21T02:04:34.922Z",
       "score": 16.5
+    },
+    "rzru/nightingale": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.6
     },
     "sagahealthcareit/mirthsync": {
       "first_seen": "2026-11-21T02:21:27.609Z",
@@ -1257,6 +1425,10 @@
       "first_seen": "2026-11-21T02:22:18.024Z",
       "score": 10
     },
+    "secops-7/mikrodash": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 25.7
+    },
     "serversathome/homelabhero": {
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 23.3
@@ -1276,6 +1448,10 @@
     "silo-server/silo-server": {
       "first_seen": "2026-11-21T02:32:20.595Z",
       "score": 16
+    },
+    "simohypers/limusic": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 21.1
     },
     "snapotter-hq/snapotter": {
       "first_seen": "2026-11-20T20:54:28.201Z",
@@ -1305,6 +1481,10 @@
       "first_seen": "2026-11-21T02:22:18.024Z",
       "score": 15.1
     },
+    "stffnb/edentext": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.3
+    },
     "strelov1/freehire": {
       "first_seen": "2026-11-21T02:31:38.834Z",
       "score": 24.7
@@ -1320,6 +1500,14 @@
     "swapins/hapi-fhir": {
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 14.5
+    },
+    "symfony/console": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.4
+    },
+    "syngnat/gonavi": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 16.7
     },
     "syzygyhack/open-foundry": {
       "first_seen": "2026-11-20T20:54:28.201Z",
@@ -1341,6 +1529,10 @@
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 15.8
     },
+    "tangency-labs/solidcraft": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 20.8
+    },
     "tastyeffectco/sandboxd": {
       "first_seen": "2026-11-20T13:48:44.477Z",
       "score": 22.6
@@ -1356,6 +1548,10 @@
     "the-poom/the_poom": {
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 12.9
+    },
+    "ther1d/shell_gpt": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 19.7
     },
     "thetahealth/mirobody": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -1377,6 +1573,10 @@
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 23.2
     },
+    "tinykit-studio/tinykit": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.3
+    },
     "tirth8205/code-review-graph": {
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 21.3
@@ -1384,6 +1584,10 @@
     "tonhowtf/omniget": {
       "first_seen": "2026-11-21T02:32:20.595Z",
       "score": 16.1
+    },
+    "torrentplayer/torrentplayer": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 21.6
     },
     "tostmann/thbr": {
       "first_seen": "2026-11-21T02:21:27.609Z",
@@ -1429,6 +1633,10 @@
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 20.8
     },
+    "vavallee/bindery": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 20.3
+    },
     "vercel-labs/agent-desktop": {
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 22.3
@@ -1453,9 +1661,21 @@
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 19.6
     },
+    "voltiusapp/voltius": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 25.9
+    },
+    "vstorm-co/full-stack-ai-agent-template": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 19
+    },
     "wangwanjie/gately": {
       "first_seen": "2026-11-21T02:31:38.834Z",
       "score": 23.8
+    },
+    "wangzan101/mika": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 20.7
     },
     "wanshuiyin/auto-claude-code-research-in-sleep": {
       "first_seen": "2026-11-21T02:31:38.834Z",
@@ -1464,6 +1684,14 @@
     "wilbowes/echomuse": {
       "first_seen": "2026-11-21T02:04:34.922Z",
       "score": 10.9
+    },
+    "windshiftapp/core": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 25.3
+    },
+    "with-pebbly/aseprite-ai-artist": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.7
     },
     "wso2/fhir-mcp-server": {
       "first_seen": "2026-11-20T20:54:28.201Z",
@@ -1489,9 +1717,17 @@
       "first_seen": "2026-11-21T02:22:18.024Z",
       "score": 19.3
     },
+    "yoanbernabeu/grepai": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.5
+    },
     "yusufceng1z/ding": {
       "first_seen": "2026-11-21T02:31:38.834Z",
       "score": 18.9
+    },
+    "z3rg/ollama-amd-igpu": {
+      "first_seen": "2026-11-22T14:48:30.311Z",
+      "score": 14.8
     },
     "zatosource/zato": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -1500,6 +1736,10 @@
     "zenbu-labs/terminal-browser": {
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 18.6
+    },
+    "zephium-browser/zephium": {
+      "first_seen": "2026-11-22T14:47:44.356Z",
+      "score": 20.6
     },
     "zibo-chen/subnetdesk": {
       "first_seen": "2026-11-21T02:32:20.595Z",

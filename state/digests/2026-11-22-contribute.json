@@ -1,0 +1,2155 @@
+{
+  "version": 1,
+  "date": "2026-11-22",
+  "mode": "contribute",
+  "generated_at": "2026-11-22T14:48:30.314Z",
+  "items": [
+    {
+      "full_name": "VoltiusApp/voltius",
+      "url": "https://github.com/VoltiusApp/voltius",
+      "score": 25.9,
+      "stars": 843,
+      "language": "TypeScript",
+      "description": "A lightning-fast, modern, local-first SSH/SFTP/Serial client. Real-time E2EE sync, Team vaults, live sharing, plugins and more. Open-source Termius alternative for Windows, Linux, macOS & Android. Built with Rust/Tauri.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (homelab, rust, self-hosted, terminal)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 100 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 3 of 3 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.9,
+          "text": "~116 stars a month (new, 7 months ago, top 63% in homelab)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.80.0 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "crdt",
+        "credential-manager",
+        "e2ee",
+        "homelab",
+        "local-first",
+        "plugins",
+        "port-forwarding",
+        "rust",
+        "self-hosted",
+        "serial",
+        "sftp",
+        "ssh",
+        "ssh-client",
+        "sync",
+        "sysadmin",
+        "tauri",
+        "teams",
+        "terminal",
+        "termius-alternative",
+        "zero-knowledge"
+      ],
+      "via_topics": [
+        "homelab"
+      ],
+      "created_at": "2026-04-17T16:54:34Z",
+      "pushed_at": "2026-11-21T23:09:31Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 100,
+        "issue_response": {
+          "answered": 3,
+          "total": 3
+        }
+      }
+    },
+    {
+      "full_name": "SecOps-7/MikroDash",
+      "url": "https://github.com/SecOps-7/MikroDash",
+      "score": 25.7,
+      "stars": 659,
+      "language": "Go",
+      "description": "Real-Time Open-source command center for MikroTik RouterOS v7. Streams live CPU, traffic, wireless clients, DHCP, WireGuard, firewall and geo connection data straight from the router API to your browser over a WebSocket. Alerts, reports, config management and zero-touch provisioning. One static Go binary, self-hosted, Docker-ready",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (docker, golang, homelab, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 10 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 21 of 21 recent issues"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.1,
+          "text": "like your stars: go"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.8.86 1d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.9,
+          "text": "~76 stars a month (new, 9 months ago, top 83% in self-hosted)"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "dashboard",
+        "docker",
+        "fleet-management",
+        "golang",
+        "homelab",
+        "mikrotik",
+        "mikrotik-router",
+        "mikrotik-routeros",
+        "network-monitoring",
+        "routeros",
+        "self-hosted",
+        "wireguard"
+      ],
+      "via_topics": [
+        "homelab"
+      ],
+      "created_at": "2026-03-06T10:48:47Z",
+      "pushed_at": "2026-11-21T18:31:02Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 10,
+        "issue_response": {
+          "answered": 21,
+          "total": 21
+        }
+      }
+    },
+    {
+      "full_name": "rustrak/rustrak",
+      "url": "https://github.com/rustrak/rustrak",
+      "score": 25.4,
+      "stars": 1638,
+      "language": "Rust",
+      "description": "Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (docker, postgresql, rust, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 14 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2.6,
+          "text": "answered 7 of 8 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.8,
+          "text": "~162 stars a month (new, 10 months ago, top 65% in postgresql)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.30.1 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "apm",
+        "application-monitoring",
+        "crash-reporting",
+        "docker",
+        "error-monitoring",
+        "error-reporting",
+        "error-tracking",
+        "logging",
+        "monitoring",
+        "observability",
+        "open-source",
+        "postgresql",
+        "rust",
+        "self-hosted",
+        "selfhosted",
+        "sentry",
+        "sentry-alternative",
+        "sqlite"
+      ],
+      "via_topics": [
+        "postgresql"
+      ],
+      "created_at": "2026-01-22T10:36:38Z",
+      "pushed_at": "2026-11-22T14:34:57Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 14,
+        "issue_response": {
+          "answered": 7,
+          "total": 8
+        }
+      }
+    },
+    {
+      "full_name": "Windshiftapp/core",
+      "url": "https://github.com/Windshiftapp/core",
+      "score": 25.3,
+      "stars": 466,
+      "language": "Go",
+      "description": "Self-hosted, open-source work management platform and Jira alternative (AGPL v3).",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "6 of your topics (ai-agents, docker, golang, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 90 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2.3,
+          "text": "answered 7 of 9 recent issues"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.5,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.9.5 4d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.5,
+          "text": "~41 stars a month (new, 11 months ago, top 91% in self-hosted)"
+        }
+      ],
+      "topics": [
+        "agile",
+        "agpl",
+        "ai-agents",
+        "docker",
+        "golang",
+        "issue-tracker",
+        "itsm",
+        "jira-alternative",
+        "jql",
+        "kanban",
+        "kubernetes",
+        "mcp",
+        "project-management",
+        "scrum",
+        "self-hosted",
+        "self-hosted-alternatives",
+        "self-hosting",
+        "svelte",
+        "task-management",
+        "work-management"
+      ],
+      "via_topics": [
+        "svelte"
+      ],
+      "created_at": "2025-12-15T14:26:44Z",
+      "pushed_at": "2026-11-21T21:36:02Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 90,
+        "issue_response": {
+          "answered": 7,
+          "total": 9
+        }
+      }
+    },
+    {
+      "full_name": "boxlite-ai/boxlite",
+      "url": "https://github.com/boxlite-ai/boxlite",
+      "score": 25.1,
+      "stars": 2683,
+      "language": "TypeScript",
+      "description": "The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (rust, security, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 65 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.3,
+          "text": "~231 stars a month (new, 12 months ago, top 55% in self-hosted)"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "7 good first issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.14.1 3d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "issue_response",
+          "points": 0.3,
+          "text": "answered 1 of 9 recent issues"
+        }
+      ],
+      "topics": [
+        "agentic",
+        "ai-agent",
+        "embedded",
+        "rust",
+        "sandbox",
+        "security",
+        "self-hosted",
+        "serverless",
+        "virtualization"
+      ],
+      "via_topics": [
+        "security"
+      ],
+      "created_at": "2025-12-07T22:49:32Z",
+      "pushed_at": "2026-11-22T14:10:38Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 65,
+        "issue_response": {
+          "answered": 1,
+          "total": 9
+        }
+      }
+    },
+    {
+      "full_name": "ancsemi/Haven",
+      "url": "https://github.com/ancsemi/Haven",
+      "score": 25.1,
+      "stars": 1195,
+      "language": "JavaScript",
+      "description": "Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (docker, homelab, privacy, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 100 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 5 of 5 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.1,
+          "text": "~126 stars a month (new, 9 months ago, top 59% in homelab)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v4.30.0-beta.3 2d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "chat",
+        "discord",
+        "discord-alternative",
+        "discord-clone",
+        "docker",
+        "e2ee",
+        "electron",
+        "end-to-end-encryption",
+        "group-chat",
+        "homelab",
+        "messaging",
+        "privacy",
+        "screen-sharing",
+        "self-hosted",
+        "self-hosting",
+        "selfhosted",
+        "teamspeak",
+        "video-chat",
+        "voice-chat",
+        "webrtc"
+      ],
+      "via_topics": [
+        "homelab"
+      ],
+      "created_at": "2026-02-11T05:16:20Z",
+      "pushed_at": "2026-11-22T14:32:41Z",
+      "lang": "und",
+      "health": {
+        "outside_prs_90d": 100,
+        "issue_response": {
+          "answered": 5,
+          "total": 5
+        }
+      }
+    },
+    {
+      "full_name": "bagidea/bagidea-office",
+      "url": "https://github.com/bagidea/bagidea-office",
+      "score": 25.1,
+      "stars": 264,
+      "language": "JavaScript",
+      "description": "A living AI-agent office on your desktop wallpaper — Claude Code agents that walk, work, delegate, learn & hold meetings. Per-agent swappable models (Claude/GLM/DeepSeek/Qwen/Kimi/OpenAI/Gemini/Groq/Ollama…), workflows, plugins, voice & Telegram/Discord/LINE. Open source.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, godot, llm, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 11 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 12 of 12 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.1,
+          "text": "~46 stars a month (new, 6 months ago, top 58% in godot)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.11.0 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "automation",
+        "autonomous-agents",
+        "claude",
+        "claude-code",
+        "desktop-wallpaper",
+        "gemini",
+        "godot",
+        "llm",
+        "llm-agents",
+        "local-llm",
+        "mcp",
+        "multi-agent",
+        "ollama",
+        "openai"
+      ],
+      "via_topics": [
+        "godot"
+      ],
+      "created_at": "2026-06-03T21:21:42Z",
+      "pushed_at": "2026-11-21T19:08:26Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 11,
+        "issue_response": {
+          "answered": 12,
+          "total": 12
+        }
+      }
+    },
+    {
+      "full_name": "291-Group/LAN-Orangutan",
+      "url": "https://github.com/291-Group/LAN-Orangutan",
+      "score": 24.2,
+      "stars": 1168,
+      "language": "Go",
+      "description": "LAN-Orangutan is a self-hosted network discovery tool. Find every device on your LAN, label and group them, snapshot your network and compare it later, and get flagged when something unexpected shows up. Single binary, no setup, Tailscale built in. Built by 291 Group.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "5 of your topics (cli, golang, homelab, security)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 3d ago"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 3,
+          "text": "merged 3 outside PRs in 90 days"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 14 of 14 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.5,
+          "text": "~107 stars a month (new, 11 months ago, top 70% in homelab)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v4.0.0 3d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.7,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "cli",
+        "device-discovery",
+        "golang",
+        "homelab",
+        "internet-of-things",
+        "lan",
+        "network-discovery",
+        "network-monitoring",
+        "network-monitoring-tool",
+        "network-scanner",
+        "networking",
+        "nmap",
+        "security",
+        "self-hosted",
+        "selfhosted",
+        "tailscale",
+        "tailscale-network",
+        "web-dashboard"
+      ],
+      "via_topics": [
+        "homelab"
+      ],
+      "created_at": "2025-12-29T13:32:02Z",
+      "pushed_at": "2026-11-18T18:37:37Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 3,
+        "issue_response": {
+          "answered": 14,
+          "total": 14
+        }
+      }
+    },
+    {
+      "full_name": "erickochen/purple",
+      "url": "https://github.com/erickochen/purple",
+      "score": 24,
+      "stars": 781,
+      "language": "Rust",
+      "description": "Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 18 cloud providers, monitors live SSH tunnels and manages Docker and Podman containers fleet-wide. Plus scp, Vault SSH certs and an MCP server for AI agents.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "6 of your topics (cli, docker, homelab, mcp)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 6d ago"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 3,
+          "text": "merged 3 outside PRs in 90 days"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 8 of 8 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.3,
+          "text": "~85 stars a month (new, 9 months ago, top 74% in homelab)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v3.34.2 18d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.7,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "cli",
+        "cloud-sync",
+        "devops",
+        "docker",
+        "hashicorp-vault",
+        "homelab",
+        "mcp",
+        "podman",
+        "ratatui",
+        "rust",
+        "ssh",
+        "ssh-bookmarks",
+        "ssh-client",
+        "ssh-config",
+        "ssh-config-editor",
+        "ssh-manager",
+        "ssh-tunnel",
+        "terminal",
+        "termius-alternative",
+        "tui"
+      ],
+      "via_topics": [
+        "homelab"
+      ],
+      "created_at": "2026-02-19T16:30:18Z",
+      "pushed_at": "2026-11-16T03:35:11Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 3,
+        "issue_response": {
+          "answered": 8,
+          "total": 8
+        }
+      }
+    },
+    {
+      "full_name": "K9i-0/ccpocket",
+      "url": "https://github.com/K9i-0/ccpocket",
+      "score": 23.1,
+      "stars": 1108,
+      "language": "Dart",
+      "description": "Mobile client for Codex, Claude, and Antigravity — control coding agents from your phone via WebSocket bridge",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (android, cli, flutter)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 39 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.4,
+          "text": "~115 stars a month (new, 10 months ago, top 73% in flutter)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released windows/v1.178.0+332 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.7,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "acp",
+        "android",
+        "antigravity",
+        "app-server",
+        "bridge-server",
+        "claude-code",
+        "cli",
+        "codex",
+        "flutter",
+        "ios",
+        "mobile",
+        "openai",
+        "remote-control",
+        "typescript",
+        "websocket"
+      ],
+      "via_topics": [
+        "flutter"
+      ],
+      "created_at": "2026-02-06T00:18:05Z",
+      "pushed_at": "2026-11-22T05:30:50Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 39,
+        "issue_response": {
+          "answered": 1,
+          "total": 1
+        }
+      }
+    },
+    {
+      "full_name": "nudgebee/nudgebee",
+      "url": "https://github.com/nudgebee/nudgebee",
+      "score": 23,
+      "stars": 523,
+      "language": "Go",
+      "description": "Open-source agentic ops platform for cloud, SRE, DevOps, support and FinOps teams. AI agents investigate incidents, cut cloud and Kubernetes waste and run approval-gated runbooks across Kubernetes, AWS, Azure, GCP and your databases. Self-hosted, bring your own models.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, database, llm)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 100 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2,
+          "text": "~79 stars a month (new, 7 months ago, top 61% in database)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.15.0-rc.1 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agentic",
+        "agentic-ops",
+        "ai-agents",
+        "aiops",
+        "aws",
+        "azure",
+        "cloudops",
+        "cost-optimization",
+        "database",
+        "devops",
+        "finops",
+        "gcp",
+        "incident-management",
+        "kubernetes",
+        "llm",
+        "observability",
+        "platform-engineering",
+        "root-cause-analysis",
+        "runbook-automation",
+        "sre"
+      ],
+      "via_topics": [
+        "database"
+      ],
+      "created_at": "2026-05-07T17:58:43Z",
+      "pushed_at": "2026-11-22T11:56:57Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 100,
+        "issue_response": {
+          "answered": 0,
+          "total": 11
+        }
+      }
+    },
+    {
+      "full_name": "dogkeeper886/ollama37",
+      "url": "https://github.com/dogkeeper886/ollama37",
+      "score": 20.7,
+      "stars": 24,
+      "language": "Go",
+      "description": "Tesla K80 Compatible Ollama Fork",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 10,
+          "text": "live fork of ollama/ollama: 1115 commits ahead, 1568 behind"
+        },
+        {
+          "rule": "stars",
+          "points": 3,
+          "text": "24 stars, top 25% of this run"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 12 of 12 recent issues"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 23d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2.3.5 24d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: description, homepage"
+        }
+      ],
+      "topics": [],
+      "via_topics": [],
+      "created_at": "2025-04-03T17:25:50Z",
+      "pushed_at": "2026-10-30T13:58:09Z",
+      "lang": "und",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 12,
+          "total": 12
+        }
+      }
+    },
+    {
+      "full_name": "vavallee/bindery",
+      "url": "https://github.com/vavallee/bindery",
+      "score": 20.3,
+      "stars": 587,
+      "language": "Go",
+      "description": "Self-hosted ebook and audiobook manager: follows authors, searches Usenet and torrent indexers, imports to Calibre and Audiobookshelf. A Readarr alternative.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (docker, homelab, react, self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 2,
+          "text": "merged 2 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.2,
+          "text": "~79 stars a month (new, 7 months ago, top 77% in homelab)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.1,
+          "text": "like your stars: go"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.53.0 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "arr",
+        "audiobook-manager",
+        "audiobooks",
+        "book-manager",
+        "calibre",
+        "docker",
+        "ebook-manager",
+        "ebooks",
+        "go",
+        "helm",
+        "homelab",
+        "opds",
+        "prowlarr",
+        "react",
+        "readarr",
+        "readarr-alternative",
+        "sabnzbd",
+        "self-hosted",
+        "torrent",
+        "usenet"
+      ],
+      "via_topics": [
+        "homelab"
+      ],
+      "created_at": "2026-04-11T21:40:44Z",
+      "pushed_at": "2026-11-22T02:06:19Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 2,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "vstorm-co/full-stack-ai-agent-template",
+      "url": "https://github.com/vstorm-co/full-stack-ai-agent-template",
+      "score": 19,
+      "stars": 2005,
+      "language": "Python",
+      "description": "Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the box.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "5 of your topics (ai-agents, docker, llm, postgresql)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2,
+          "text": "~178 stars a month (new, 11 months ago, top 60% in postgresql)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 1,
+          "text": "merged 1 outside PR in 90 days"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released 0.2.21 46d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agent-framework",
+        "ai-agent-template",
+        "ai-agents",
+        "crewai",
+        "docker",
+        "fastapi",
+        "full-stack",
+        "langchain",
+        "langgraph",
+        "llm",
+        "nextjs",
+        "postgresql",
+        "pydantic-ai",
+        "pydantic-deep",
+        "python",
+        "rag",
+        "react",
+        "typescript",
+        "vstorm",
+        "websocket"
+      ],
+      "via_topics": [
+        "postgresql"
+      ],
+      "created_at": "2025-12-19T12:23:15Z",
+      "pushed_at": "2026-11-20T16:33:46Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 1,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "pixxelhoff/imagepier",
+      "url": "https://github.com/pixxelhoff/imagepier",
+      "score": 17.3,
+      "stars": 0,
+      "language": "TypeScript",
+      "description": "Self-hosted media library for organizations – based on Immich, extended with image rights & licensing, team roles and an embeddable website gallery with photo credits. Not affiliated with Immich.",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 10,
+          "text": "live fork of immich-app/immich: 86 commits ahead, 274 behind"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic self-hosted"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 0.3,
+          "text": "docs: description"
+        }
+      ],
+      "topics": [
+        "digital-asset-management",
+        "image-rights",
+        "immich",
+        "media-library",
+        "photo-management",
+        "self-hosted"
+      ],
+      "via_topics": [],
+      "created_at": "2026-11-21T17:22:39Z",
+      "pushed_at": "2026-11-22T14:44:54Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "kOlapsis/maintenant",
+      "url": "https://github.com/kOlapsis/maintenant",
+      "score": 14.8,
+      "stars": 553,
+      "language": "Go",
+      "description": "Self-hosted monitoring for Docker, Kubernetes and uptime. Single Go binary, no agent config, live alerts. Drop a container, your stack is monitored.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (docker, golang, homelab, self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.1,
+          "text": "like your stars: go"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.7,
+          "text": "~62 stars a month (new, 9 months ago, top 86% in self-hosted)"
+        }
+      ],
+      "topics": [
+        "alerting",
+        "container-monitoring",
+        "devops",
+        "docker",
+        "docker-monitoring",
+        "golang",
+        "grafana-alternative",
+        "heartbeat",
+        "homelab",
+        "kubernetes",
+        "monitoring",
+        "observability",
+        "prometheus-alternative",
+        "self-hosted",
+        "sqlite",
+        "ssl-monitoring",
+        "status-page",
+        "uptime-kuma-alternative",
+        "uptime-monitoring",
+        "vue"
+      ],
+      "via_topics": [
+        "homelab"
+      ],
+      "created_at": "2026-02-28T18:19:30Z",
+      "pushed_at": "2026-11-22T09:30:14Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "z3rg/ollama-AMD-iGPU",
+      "url": "https://github.com/z3rg/ollama-AMD-iGPU",
+      "score": 14.8,
+      "stars": 30,
+      "language": "Go",
+      "description": "Ollama version that runs on iGPU 780M",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 8.3,
+          "text": "live fork of ollama/ollama: 17 commits ahead, 259 behind"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.5,
+          "text": "~3 stars a month (new, 11 months ago, top 31% of this run)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 16d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [],
+      "via_topics": [],
+      "created_at": "2025-12-21T06:54:54Z",
+      "pushed_at": "2026-11-05T22:33:39Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Ozark-Connect/NetworkOptimizer",
+      "url": "https://github.com/Ozark-Connect/NetworkOptimizer",
+      "score": 14.7,
+      "stars": 1338,
+      "language": "C#",
+      "description": "Self-hosted optimization, monitoring (NMS), and security audit tool for UniFi Networks. Includes Wi-Fi Optimizer for wireless health scoring and channel optimization, advanced DNS/VLAN/firewall security checks, config optimization suggestions, centralized WAN and LAN speed test server w/ L2 tracing, CM, ONT, SFP, 5G modem stats +more.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (docker, homelab, self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.7,
+          "text": "~115 stars a month (new, 12 months ago, top 67% in homelab)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        }
+      ],
+      "topics": [
+        "bufferbloat",
+        "crowdsec",
+        "docker",
+        "homelab",
+        "internet-speed-test",
+        "isp-health",
+        "isp-monitoring",
+        "network-monitoring",
+        "network-monitoring-tool",
+        "network-optimization",
+        "nms",
+        "security-audit",
+        "self-hosted",
+        "speedtest",
+        "speedtest-tracker",
+        "sqm",
+        "ubiquiti",
+        "unifi",
+        "unifi-network",
+        "wifi-configuration"
+      ],
+      "via_topics": [
+        "homelab"
+      ],
+      "created_at": "2025-12-09T05:26:11Z",
+      "pushed_at": "2026-11-22T08:25:31Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "AltimateAI/altimate-code",
+      "url": "https://github.com/AltimateAI/altimate-code",
+      "score": 14.7,
+      "stars": 822,
+      "language": "TypeScript",
+      "description": "Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (cli, llm, postgresql)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1,
+          "text": "~92 stars a month (new, 9 months ago, top 81% in postgresql)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.7,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "agent",
+        "agentic-data-engineering",
+        "ai",
+        "analytics-engineering",
+        "bigquery",
+        "cli",
+        "data-engineering",
+        "databricks",
+        "dbt",
+        "finops",
+        "harness-engineering",
+        "lineage",
+        "llm",
+        "opencode",
+        "postgresql",
+        "snowflake",
+        "sql",
+        "workflow-automation-ai"
+      ],
+      "via_topics": [
+        "postgresql"
+      ],
+      "created_at": "2026-02-27T00:57:01Z",
+      "pushed_at": "2026-11-22T09:11:18Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "with-pebbly/aseprite-ai-artist",
+      "url": "https://github.com/with-pebbly/aseprite-ai-artist",
+      "score": 14.7,
+      "stars": 722,
+      "language": "TypeScript",
+      "description": "Your coding agent paints pixel art in the Aseprite window you already have open. MCP server + skills for Claude Code, omp, Codex, Gemini CLI and Cursor — draws, looks at its work, animates and exports. Gallery and benchmark: pixeli.pebbly.space",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, gamedev, mcp)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.7,
+          "text": "~289 stars a month (new, 3 months ago, top 46% in gamedev)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 12d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "aseprite",
+        "benchmark",
+        "claude-code",
+        "gamedev",
+        "lua",
+        "mcp",
+        "model-context-protocol",
+        "pixel-art",
+        "sprite-animation",
+        "spritesheet",
+        "typescript"
+      ],
+      "via_topics": [
+        "gamedev"
+      ],
+      "created_at": "2026-09-08T09:41:33Z",
+      "pushed_at": "2026-11-09T15:55:20Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "eugene1g/agent-safehouse",
+      "url": "https://github.com/eugene1g/agent-safehouse",
+      "score": 14.5,
+      "stars": 2154,
+      "language": "Shell",
+      "description": "Sandbox your local AI agents so they can read/write only what they need",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, llm, security)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.5,
+          "text": "~227 stars a month (new, 10 months ago, top 71% in security)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "llm",
+        "macos",
+        "sandbox",
+        "security"
+      ],
+      "via_topics": [
+        "security"
+      ],
+      "created_at": "2026-02-09T17:33:52Z",
+      "pushed_at": "2026-11-21T15:47:20Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "yoanbernabeu/grepai",
+      "url": "https://github.com/yoanbernabeu/grepai",
+      "score": 14.5,
+      "stars": 1954,
+      "language": "C",
+      "description": "Semantic Search & Call Graphs for AI Agents (100% Local)",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (cli, golang, mcp)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 20d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.8,
+          "text": "~185 stars a month (new, 11 months ago, top 65% in golang)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.7,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai",
+        "claude-code",
+        "cli",
+        "code-search",
+        "cursor",
+        "developer-tools",
+        "embeddings",
+        "golang",
+        "mcp",
+        "privacy-first",
+        "semantic-search",
+        "vector-search"
+      ],
+      "via_topics": [
+        "golang"
+      ],
+      "created_at": "2026-01-09T13:01:33Z",
+      "pushed_at": "2026-11-02T05:50:30Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "symfony/console",
+      "url": "https://github.com/symfony/console",
+      "score": 14.4,
+      "stars": 9812,
+      "language": "PHP",
+      "description": "Eases the creation of beautiful and testable command line interfaces",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (cli, terminal)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "stars",
+          "points": 2.4,
+          "text": "9812 stars, top 41% in cli"
+        },
+        {
+          "rule": "affinity",
+          "points": 2,
+          "text": "like your stars: command-line, cli"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "cli",
+        "command-line",
+        "component",
+        "console",
+        "php",
+        "symfony",
+        "symfony-component",
+        "terminal"
+      ],
+      "via_topics": [],
+      "created_at": "2011-02-22T18:00:31Z",
+      "pushed_at": "2026-11-19T17:02:47Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "RackulaLives/Rackula",
+      "url": "https://github.com/RackulaLives/Rackula",
+      "score": 14.4,
+      "stars": 1803,
+      "language": "TypeScript",
+      "description": "rack layout designer",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (homelab, svelte)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.9,
+          "text": "~163 stars a month (new, 11 months ago, top 42% in svelte)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.5,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "av-rack",
+        "capacity-planning",
+        "dcim",
+        "drag-and-drop",
+        "homelab",
+        "netbox",
+        "network-infrastructure",
+        "nice-rack",
+        "rack",
+        "rack-diagram",
+        "rack-layout",
+        "self-host",
+        "server-rack",
+        "svelte",
+        "sysadmin",
+        "typescript",
+        "visualization"
+      ],
+      "via_topics": [
+        "svelte",
+        "homelab"
+      ],
+      "created_at": "2025-12-25T21:02:28Z",
+      "pushed_at": "2026-11-20T19:10:41Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "stffnb/edentext",
+      "url": "https://github.com/stffnb/edentext",
+      "score": 14.3,
+      "stars": 649,
+      "language": "TypeScript",
+      "description": "Powerful web-based Word Processor for docx and odt. Free, Open Source, Private by Design",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (self-hosted, svelte)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.8,
+          "text": "~125 stars a month (new, 5 months ago, top 45% in svelte)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.5,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "client-side",
+        "docx",
+        "local-first",
+        "odt",
+        "office",
+        "ooxml",
+        "open-source",
+        "private",
+        "prosemirror",
+        "self-hosted",
+        "svelte",
+        "texteditor",
+        "tiptap",
+        "typescript",
+        "vite",
+        "wordprocessor"
+      ],
+      "via_topics": [
+        "svelte"
+      ],
+      "created_at": "2026-06-18T19:49:20Z",
+      "pushed_at": "2026-11-20T20:31:52Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "0xErwin1/dbflux",
+      "url": "https://github.com/0xErwin1/dbflux",
+      "score": 14.3,
+      "stars": 584,
+      "language": "Rust",
+      "description": "A fast, keyboard-first database client built with Rust and GPUI.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (database, postgresql, rust)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.3,
+          "text": "~54 stars a month (new, 11 months ago, top 75% in database)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "aws",
+        "beekeeper-alternative",
+        "cross-platform",
+        "database",
+        "database-client",
+        "db",
+        "dbeaver-alternative",
+        "developer-tools",
+        "dynamodb",
+        "gpui",
+        "mongodb",
+        "mssql",
+        "mysql",
+        "nosql",
+        "postgresql",
+        "redis",
+        "redis-client",
+        "rust",
+        "s3",
+        "sql"
+      ],
+      "via_topics": [
+        "database"
+      ],
+      "created_at": "2025-12-30T15:26:23Z",
+      "pushed_at": "2026-11-22T14:27:45Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "tinykit-studio/tinykit",
+      "url": "https://github.com/tinykit-studio/tinykit",
+      "score": 14.3,
+      "stars": 530,
+      "language": "Svelte",
+      "description": "Self-hosted Lovable/v0 alternative. Realtime database & storage included.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (llm, self-hosted, svelte)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 13d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.5,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.8,
+          "text": "~46 stars a month (new, 12 months ago, top 85% in svelte)"
+        }
+      ],
+      "topics": [
+        "agentic",
+        "ai",
+        "app-builder",
+        "batteries-included",
+        "cms",
+        "crud",
+        "design-system",
+        "internal-tools",
+        "llm",
+        "lovable",
+        "personal-tools",
+        "pocketbase",
+        "replit",
+        "self-hosted",
+        "svelte",
+        "v0"
+      ],
+      "via_topics": [
+        "svelte"
+      ],
+      "created_at": "2025-12-10T07:22:56Z",
+      "pushed_at": "2026-11-09T00:14:55Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "hi-godot/godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "score": 14.2,
+      "stars": 3646,
+      "language": "GDScript",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (godot, mcp)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.2,
+          "text": "~488 stars a month (new, 7 months ago, top 17% in godot)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "ai",
+        "game-development",
+        "godot",
+        "godot-plugin",
+        "mcp"
+      ],
+      "via_topics": [
+        "godot"
+      ],
+      "created_at": "2026-04-12T02:23:43Z",
+      "pushed_at": "2026-11-22T14:38:08Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "man15h/tellyscope",
+      "url": "https://github.com/man15h/tellyscope",
+      "score": 14.2,
+      "stars": 2199,
+      "language": "Kotlin",
+      "description": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. no root, no PC.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (android, privacy)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.2,
+          "text": "~2199 stars a month (new, 30d ago, top 16% in privacy)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "android",
+        "androidtv",
+        "googletv",
+        "privacy"
+      ],
+      "via_topics": [
+        "privacy"
+      ],
+      "created_at": "2026-10-22T19:51:46Z",
+      "pushed_at": "2026-11-21T14:39:42Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "guillevc/yubal",
+      "url": "https://github.com/guillevc/yubal",
+      "score": 14.2,
+      "stars": 1762,
+      "language": "Python",
+      "description": "Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (docker, homelab, self-hosted)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.2,
+          "text": "~161 stars a month (new, 11 months ago, top 56% in homelab)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 14d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "docker",
+        "fastapi",
+        "homelab",
+        "metadata",
+        "music-downloader",
+        "playlist",
+        "python",
+        "self-hosted",
+        "sync",
+        "youtube-music",
+        "yt-dlp"
+      ],
+      "via_topics": [
+        "homelab"
+      ],
+      "created_at": "2025-12-29T14:14:08Z",
+      "pushed_at": "2026-11-08T05:52:42Z",
+      "lang": "en",
+      "health": null
+    }
+  ]
+}
