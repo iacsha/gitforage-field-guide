@@ -1,11 +1,11 @@
 {
  "repos": {
   "0xerwin1/dbflux": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 584,
-   "stars_last": 584,
+   "stars_last": 612,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -46,11 +46,11 @@
    "trending_from": "2026-11-21"
   },
   "291-group/lan-orangutan": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1168,
-   "stars_last": 1168,
+   "stars_last": 1199,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -184,11 +184,11 @@
    "trending_from": "2026-11-21"
   },
   "altimateai/altimate-code": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 822,
-   "stars_last": 822,
+   "stars_last": 824,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -220,11 +220,11 @@
    "trending_from": "2026-11-20"
   },
   "ancsemi/haven": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1196,
-   "stars_last": 1196,
+   "stars_last": 1253,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -247,11 +247,11 @@
    "trending_from": "2026-11-21"
   },
   "aprilnea/openlogi": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 26021,
-   "stars_last": 26021,
+   "stars_last": 26301,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -337,11 +337,11 @@
    "trending_from": "2026-11-20"
   },
   "bagidea/bagidea-office": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 264,
-   "stars_last": 264,
+   "stars_last": 265,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -418,11 +418,11 @@
    "trending_from": "2026-11-20"
   },
   "boxlite-ai/boxlite": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 2683,
-   "stars_last": 2683,
+   "stars_last": 2702,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -590,11 +590,11 @@
    "trending_from": "2026-11-20"
   },
   "claudiodangelis/qrcp": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 10533,
-   "stars_last": 10533,
+   "stars_last": 10538,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -842,11 +842,11 @@
    "trending_from": "2026-11-20"
   },
   "dogkeeper886/ollama37": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 24,
-   "stars_last": 24,
+   "stars_last": 25,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -959,11 +959,11 @@
    "trending_from": "2026-11-21"
   },
   "erickochen/purple": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 781,
-   "stars_last": 781,
+   "stars_last": 799,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -980,11 +980,11 @@
    "trending_from": "2026-11-20"
   },
   "eugene1g/agent-safehouse": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 2154,
-   "stars_last": 2154,
+   "stars_last": 2162,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1007,11 +1007,11 @@
    "trending_from": "2026-11-20"
   },
   "fareedkhan-dev/kimi-k3-in-c": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 12564,
-   "stars_last": 12564,
+   "stars_last": 12780,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1034,11 +1034,11 @@
    "trending_from": "2026-11-21"
   },
   "fennaraofficial/fennara-godot-ai": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 320,
-   "stars_last": 320,
+   "stars_last": 319,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1115,11 +1115,11 @@
    "trending_from": "2026-11-20"
   },
   "frigadehq/yogurt": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 2934,
-   "stars_last": 2934,
+   "stars_last": 3814,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1250,11 +1250,11 @@
    "trending_from": "2026-11-20"
   },
   "glincker/thesvg": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 3031,
-   "stars_last": 3031,
+   "stars_last": 3062,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1340,11 +1340,11 @@
    "trending_from": "2026-11-21"
   },
   "guillevc/yubal": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1763,
-   "stars_last": 1763,
+   "stars_last": 1770,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1397,11 +1397,11 @@
    "trending_from": "2026-11-21"
   },
   "hatoo/oha": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 10717,
-   "stars_last": 10717,
+   "stars_last": 10763,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1451,11 +1451,11 @@
    "trending_from": "2026-11-21"
   },
   "helixdb/helix-foundry": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 2180,
-   "stars_last": 2180,
+   "stars_last": 2206,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1469,11 +1469,11 @@
    "trending_from": "2026-11-20"
   },
   "hexmora/fluxdown": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 497,
-   "stars_last": 497,
+   "stars_last": 495,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1487,11 +1487,11 @@
    "trending_from": "2026-11-20"
   },
   "hi-godot/godot-ai": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 3646,
-   "stars_last": 3646,
+   "stars_last": 3738,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1559,11 +1559,11 @@
    "trending_from": "2026-11-21"
   },
   "horizon-rust/horizon": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 11732,
-   "stars_last": 11732,
+   "stars_last": -1,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1577,11 +1577,11 @@
    "trending_from": "2026-11-21"
   },
   "hypit-ai/hypit": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 31067,
-   "stars_last": 31067,
+   "stars_last": 31761,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1613,11 +1613,11 @@
    "trending_from": "2026-11-21"
   },
   "inlitx/streak": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1245,
-   "stars_last": 1245,
+   "stars_last": 1288,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1685,11 +1685,14 @@
    "trending_from": "2026-11-21"
   },
   "jiwoochris/artex-global": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
+   "milestones": {
+    "5000": "2026-11-28"
+   },
    "stars_at_first_seen": 4413,
-   "stars_last": 4413,
+   "stars_last": 5264,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1793,11 +1796,11 @@
    "trending_from": "2026-11-20"
   },
   "k9i-0/ccpocket": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1108,
-   "stars_last": 1108,
+   "stars_last": 1115,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1820,20 +1823,20 @@
    "trending_from": "2026-11-20"
   },
   "kiruna-labs/petal": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 474,
-   "stars_last": 474,
+   "stars_last": 477,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
   "kividbio/kividb": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1334,
-   "stars_last": 1334,
+   "stars_last": 1520,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1856,11 +1859,11 @@
    "trending_from": "2026-11-20"
   },
   "kolapsis/maintenant": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 553,
-   "stars_last": 553,
+   "stars_last": 555,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -1949,11 +1952,11 @@
    "trending_from": "2026-11-21"
   },
   "lexmount/moli": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 24237,
-   "stars_last": 24237,
+   "stars_last": 24579,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -2030,11 +2033,11 @@
    "trending_from": "2026-11-21"
   },
   "man15h/tellyscope": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 2199,
-   "stars_last": 2199,
+   "stars_last": 2323,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -2508,7 +2511,7 @@
    "trending_from": "2026-11-21"
   },
   "nudgebee/nudgebee": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 523,
@@ -2535,11 +2538,11 @@
    "trending_from": "2026-11-20"
   },
   "o2sh/onefetch": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 12085,
-   "stars_last": 12085,
+   "stars_last": 12092,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -2589,11 +2592,11 @@
    "trending_from": "2026-11-21"
   },
   "omlahore/removemacai": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 6259,
-   "stars_last": 6259,
+   "stars_last": 6360,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -2706,11 +2709,11 @@
    "trending_from": "2026-11-21"
   },
   "orf/gping": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 12754,
-   "stars_last": 12754,
+   "stars_last": 12761,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -2742,20 +2745,20 @@
    "trending_from": "2026-11-21"
   },
   "ozark-connect/networkoptimizer": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1338,
-   "stars_last": 1338,
+   "stars_last": 1353,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
   "paca-ai/paca": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 2091,
-   "stars_last": 2091,
+   "stars_last": 2112,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -2805,11 +2808,11 @@
    "trending_from": "2026-11-20"
   },
   "pass-with-high-score/blockads-android": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 2799,
-   "stars_last": 2799,
+   "stars_last": 2871,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -2886,7 +2889,7 @@
    "trending_from": "2026-11-20"
   },
   "pixxelhoff/imagepier": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 0,
@@ -2985,11 +2988,11 @@
    "trending_from": "2026-11-21"
   },
   "rackulalives/rackula": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1803,
-   "stars_last": 1803,
+   "stars_last": 1815,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3084,11 +3087,11 @@
    "trending_from": "2026-11-20"
   },
   "rorkai/app-store-connect-cli": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 8453,
-   "stars_last": 8453,
+   "stars_last": 8552,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3129,11 +3132,11 @@
    "trending_from": "2026-11-21"
   },
   "rustrak/rustrak": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1642,
-   "stars_last": 1642,
+   "stars_last": 1987,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3165,11 +3168,11 @@
    "trending_from": "2026-11-21"
   },
   "rzru/nightingale": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1559,
-   "stars_last": 1559,
+   "stars_last": 1571,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3219,11 +3222,11 @@
    "trending_from": "2026-11-21"
   },
   "secops-7/mikrodash": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 659,
-   "stars_last": 659,
+   "stars_last": 674,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3273,11 +3276,11 @@
    "trending_from": "2026-11-21"
   },
   "simohypers/limusic": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 2184,
-   "stars_last": 2184,
+   "stars_last": 2270,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3345,11 +3348,11 @@
    "trending_from": "2026-11-21"
   },
   "stffnb/edentext": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 651,
-   "stars_last": 651,
+   "stars_last": 678,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3390,20 +3393,20 @@
    "trending_from": "2026-11-20"
   },
   "symfony/console": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 9812,
-   "stars_last": 9812,
+   "stars_last": 9811,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
   "syngnat/gonavi": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 2106,
-   "stars_last": 2106,
+   "stars_last": 2110,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3453,11 +3456,11 @@
    "trending_from": "2026-11-20"
   },
   "tangency-labs/solidcraft": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 17713,
-   "stars_last": 17713,
+   "stars_last": 18893,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3501,11 +3504,11 @@
    "trending_from": "2026-11-20"
   },
   "ther1d/shell_gpt": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 12317,
-   "stars_last": 12317,
+   "stars_last": 12327,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3555,7 +3558,7 @@
    "trending_from": "2026-11-20"
   },
   "tinykit-studio/tinykit": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 530,
@@ -3582,11 +3585,11 @@
    "trending_from": "2026-11-21"
   },
   "torrentplayer/torrentplayer": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 981,
-   "stars_last": 981,
+   "stars_last": 983,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3691,11 +3694,11 @@
    "trending_from": "2026-11-20"
   },
   "vavallee/bindery": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 587,
-   "stars_last": 587,
+   "stars_last": 596,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3754,20 +3757,20 @@
    "trending_from": "2026-11-20"
   },
   "voltiusapp/voltius": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 843,
-   "stars_last": 843,
+   "stars_last": 860,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
   "vstorm-co/full-stack-ai-agent-template": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 2005,
-   "stars_last": 2005,
+   "stars_last": 2010,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3781,11 +3784,14 @@
    "trending_from": "2026-11-21"
   },
   "wangzan101/mika": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
+   "milestones": {
+    "10000": "2026-11-28"
+   },
    "stars_at_first_seen": 9597,
-   "stars_last": 9597,
+   "stars_last": 10186,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3808,20 +3814,20 @@
    "trending_from": "2026-11-21"
   },
   "windshiftapp/core": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 466,
-   "stars_last": 466,
+   "stars_last": 490,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
   "with-pebbly/aseprite-ai-artist": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 723,
-   "stars_last": 723,
+   "stars_last": 758,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3880,11 +3886,11 @@
    "trending_from": "2026-11-21"
   },
   "yoanbernabeu/grepai": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1954,
-   "stars_last": 1954,
+   "stars_last": 1953,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3898,7 +3904,7 @@
    "trending_from": "2026-11-21"
   },
   "z3rg/ollama-amd-igpu": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:48:30.311Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 30,
@@ -3928,11 +3934,11 @@
    "trending_from": "2026-11-20"
   },
   "zephium-browser/zephium": {
-   "checked": "2026-11-22T15:39:48.412Z",
+   "checked": "2026-11-28T16:23:19.931Z",
    "first_seen": "2026-11-22T14:47:44.356Z",
    "hn_from": "2026-11-22",
    "stars_at_first_seen": 1230,
-   "stars_last": 1230,
+   "stars_last": 1342,
    "tracked_since": "2026-11-22",
    "trending_from": "2026-11-22"
   },
@@ -3982,6 +3988,6 @@
    "trending_from": "2026-11-21"
   }
  },
- "updated": "2026-11-27T17:38:44.811Z",
+ "updated": "2026-11-28T16:23:19.931Z",
  "version": 1
 }
